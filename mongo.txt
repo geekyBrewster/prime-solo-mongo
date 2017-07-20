@@ -1,0 +1,25 @@
+// 1. Create a collection named orders.
+
+
+//2. Insert at least 3 documents that represent an order.
+//Order dates should be: 2017-02-03, 2017-04-04, 2017-01-02
+
+
+// 3. Find all orders and make them look pretty.
+
+
+// 4. Find all orders with an orderDate that is after 1/31/2017.
+
+
+// 5. Change the orderTotal from 2/3/2017 to 63 dollars
+// (you do NOT have to ensure the lineItems' unitPrice * quantity add up to the orderTotal)
+
+
+// 6. Add another lineItem to the order from 4/4/2017
+
+
+// 7. Change the first lineItem in the order from 1/2/2017 to be for 2 'transistor radio's
+
+
+// 8. Find orders with lineItems that have a quantity that is less than 10, but greater than 2.
+// You will have to research $and order fields

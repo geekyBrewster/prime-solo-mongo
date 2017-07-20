@@ -12,8 +12,7 @@ Tasks
  - Change the orderTotal from 2/3/2017 to 63 dollars (you do NOT have to ensure the lineItems' unitPrice * quantity add up to the orderTotal)
  - Add another lineItem to the order from 4/4/2017
  - Change the first lineItem in the order from 1/2/2017 to be for 2 'transistor radio's
- - Find orders with lineItems that have a quantity that is less than 10, but greater than 2. You will have to research $and
-order fields
+ - Find orders with lineItems that have a quantity that is less than 10, but greater than 2. You will have to research $and order fields
 
 Your orders need to have the following fields:
  - orderDate -- see https://docs.mongodb.org/manual/reference/method/Date/
